@@ -10,7 +10,7 @@ It allows users to organize projects across multiple boards, manage tasks visual
 | Layer | Technology |
 |-------|-------------|
 | **Frontend** | React, Inertia.js, Tailwind CSS |
-| **Backend** | Laravel 12, PHP 8.4 |
+| **Backend** | Laravel 12.37, PHP 8.4 |
 | **Database** | MySQL / SQLite / PostgreSQL |
 | **Auth** | Laravel Breeze (React + Inertia stack) |
 | **Extras** | Dark Mode, Modal UI, Drag-and-Drop, Responsive Design |
